@@ -8,6 +8,18 @@ const motor = [
         warna: "kuning",
         mesin: "V8",
         tahun: "2020"
+    },
+    {
+        merek: "yamahal",
+        warna: "merah",
+        mesin: "V2",
+        tahun: "2020"
+    },
+    {
+        merek: "suzuki",
+        warna: "hitan",
+        mesin: "V4",
+        tahun: "2020"
     }
 ]
 
