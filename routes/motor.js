@@ -10,14 +10,14 @@ const motor = [
         tahun: "2020"
     },
     {
-        merek: "yamahal",
+        merek: "yamaha",
         warna: "merah",
         mesin: "V2",
         tahun: "2020"
     },
     {
         merek: "suzuki",
-        warna: "hitan",
+        warna: "hitam",
         mesin: "V4",
         tahun: "2020"
     }
